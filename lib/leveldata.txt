@@ -1,0 +1,24 @@
+id - in game identifier (classic = 0, first level = 1, ...)
+name - name of the level that the game will use
+seed - level 'code' (-1 means random)
+backgroundID - int that changes the background texture
+foregroundID - int that changes the foreground texture
+direction - direction in which the level scrolls (left, right)
+scrollSpeed - speed at which the level scrolls
+scrollSpeedChangeRate - rate at which the scroll speed changes per tick
+
+boulderRate - frames between each boulder that is spawned
+
+wall
+    heightStart - starting wall height (between cave top and bottom)
+    heightMin - skinniest cave will get (between cave top and bottom)
+    buffer - least amount of space between edge of wall and edge of screen
+    maxMove - max difference between ending point of wall 1 and starting point of wall 2
+    widthStart - length of the first wall segment horizontally
+    widthChange - amount
+    heightChangeRate - a string that dictates how fast the wall will change (none, slight, normal)
+	
+levelEnd - number of walls until the level is over (0 for infinite level)
+playerRotation - an override to whatever upgrades the user currently has (turn off rotation for classic)
+
+maxButtonPresses - int that changes the maximum number of button presses for a level (0 for no maximum)

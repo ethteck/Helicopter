@@ -1,0 +1,23 @@
+Main File:
+
+Badges
+Achievements
+Classic Record Distance[copter,board,ship]
+Story Mode Completeion[easy,medium,hard,challenging,insane]
+
+
+
+
+
+
+
+Story Mode Save File:
+	
+Money [try to store remotely]
+Score
+Current Level (and record distance)
+
+Ships:
+BunnyCopter [air resist, thrust power, rotate speed, top prop height]
+BunnyBoard [unlocked, max speed, acceleration, stability, length]
+BunnyShip [unlocked, thrust power, rocket reload time, size]

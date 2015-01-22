@@ -1,0 +1,39 @@
+Classic
+Sector 1 4 levels, bonus, 4 levels, boss
+Sector 2 4 levels, bonus, 4 levels, boss
+Sector 3 4 levels, bonus, 4 levels, boss
+
+-1 - Test
+
+0 - Classic
+
+1 -  S1L1
+2 -  S1L2
+3 -  S1L3
+4 -  S1L4
+5 -  S1LB
+6 -  S1L6
+7 -  S1L7
+8 -  S1L8
+9 -  S1L9
+10 - S1LF
+11 - S2L1
+12 - S2L2
+13 - S2L3
+14 - S2L4
+15 - S2LB
+16 - S2L6
+17 - S2L7
+18 - S2L8
+19 - S2L9
+20 - S2LF
+21 - S3L1
+22 - S3L2
+23 - S3L3
+24 - S3L4
+25 - S3LB
+26 - S3L6
+27 - S3L7
+28 - S3L8
+29 - S3L9
+30 - S3LF

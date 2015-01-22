@@ -1,0 +1,7 @@
+clean code
+update levelData txt
+fix playercutoff in player.as
+
+http://matmiltd.tumblr.com/post/9376211363/as3-tips
+
+work on autoplay

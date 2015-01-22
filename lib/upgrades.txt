@@ -1,0 +1,24 @@
+BunnyCopter
+
+gravity (air resistance): 0.5, 0.6, 0.7
+thrust power: 1, 1.5, 2
+rotate speed: 0, 1, 2, absolute
+topPropeller height: 30, 20, 15, 10
+max lift speed: 5, 6.5, 8, 10
+max fall speed: 5, 7, 9, 12
+
+BunnyBoard
+
+max speed - 3,4,5,6
+acceleration - 0.5,1,2
+stability - 3, 2, 1, stable (affects spurt amount, speed/=, others)
+length - 200, 180, 160, 140, 120, 100
+
+BunnyShip
+Thrust power - 2, 4, 6, 8
+rocket reload time - 120, 90, 75, 60
+size - 100, 90, 80
+
+then badges
+
+then powerups
